@@ -1,6 +1,6 @@
 # video-transcriber
 
-Created by OKIHIRO — AI自動化ワークフローを100個以上開発・運用しています。
+Created by OKIHIRO — AI自動化ワークフローを130個以上開発・運用しています。
 
 `video-transcriber` は、動画・音声ファイルからSRT字幕とプレーンテキストの文字起こしを生成するAIエージェント向けスキルです。
 
